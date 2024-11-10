@@ -1,0 +1,24 @@
+title: F de Física
+description: Hola
+theme: just-the-docs
+color_scheme: foo
+
+
+logo: "/assets/images/logo3.png"
+favicon_ico: "/assets/images/icon1.png"
+
+math: katex
+
+
+  
+callouts:
+  nota:
+    title: Nota
+    color: purple
+
+defaults:
+  -
+    scope:
+      path: "docs" # an empty string here means all files in the project
+    values:
+      layout: "default"
