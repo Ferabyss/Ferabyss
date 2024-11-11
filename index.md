@@ -6,15 +6,14 @@ has_children: true
 permalink: /
 ---
 
-Este proyecto nace como respuesta a la falta de páginas en español que cubran temas de física con ejemplos que sean de utilidad para los estudiantes universitarios. Pues aunque hay algunas páginas, la mayoría no cubren por completo el material necesario o no son cómodas de usar (exceso de anuncios, páginas no responsivas, etc). Algunos de los temás a ver incluyen:
+Ferabyss Estudios: Animación con Alma y Ciencia
 
-- Mecánica Newtoniana
-- Relatividad Especial
-- Mecánica Cuántica
+En Ferabyss Estudios, transformamos ideas en historias visuales únicas, combinando la magia de la animación 2D con una profunda narrativa. Inspirados en la ciencia, la fantasía y la cultura, llevamos a la pantalla proyectos que capturan la imaginación y transmiten emociones.
+
+Nuestro estudio destaca por su dedicación a cada detalle, desde el diseño de personajes hasta la creación de universos completos, entregando contenido de alta calidad para diversas plataformas. Con un equipo apasionado y una visión fresca, estamos listos para dar vida a tus ideas y compartirlas con el mundo. ¡Únete a nosotros en esta aventura animada! 🎬✨
 
 
-
-# Acerca de los creadores
+# Acerca de los Artistas
 
 ## María Fernanda Martínez Vázquez
  
