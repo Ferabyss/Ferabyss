@@ -17,21 +17,20 @@ Nuestro estudio destaca por su dedicación a cada detalle, desde el diseño de p
 
 ## María Fernanda Martínez Vázquez
  
-Soy María Fernanda Martínez Vázquez, de Toluca, México. Soy estudiante de último año de Física y Matemáticas en el IPN y de primer año en la Lic. Matemáticas Aplicadas en Computación en la UNAM. Mi investigación se centra en la cosmología computacional y cuántica, respaldada por mi trabajo como asistente de investigación en el IPN. He obtenido el reconocimiento de Excelencia Cuántica de IBM y gané el Qiskit Summer Jam nacional en 2021. Durante la preparatoria, fui co-capitana del equipo de robótica Spartans #8327 de FIRST Tech Challenge, con el que obtuvimos premios como el Collins Aerospace Innovate Award, por el robot con mejor diseño y dos veces el Finalist Alliance Captain, que es un premio otorgado al segundo lugar nacional.
+María Fernanda Martínez Vázquez, también conocida como Ferabyss, es una artista mexicana cuya obra explora las emociones intensas a través de diferentes técnicas, especialmente la pintura al óleo, la acuarela y el acrílico. Desde pequeña, su pasión por el dibujo la llevó a utilizar el arte como una forma de expresar lo que las palabras no podían comunicar. Influenciada por el anime en sus primeros años, ha logrado desarrollar un estilo único que fusiona la fantasía oscura, la mitología celta y maya, así como elementos surrealistas.
 
+A lo largo de su carrera, ha participado en diversas exposiciones y concursos de pintura, destacando su participación en el Encuentro Nacional de Arte Contemporáneo (ENAC) en 2018, donde obtuvo el tercer lugar, y en 2019, logrando el primer lugar estatal en pintura. Además, ha sido parte del Interpolitécnico de Pintura en 2023 y expondrá próximamente en el Centro Cultural Jaime Torres Bodet para el Interpolitécnico de Pintura 2024.
 
-Mi pasión por la física y en especial la cosmología, me impulsa a explorar la materia oscura, la formación de estructura y el universo temprano.
+Su formación artística incluye estudios en el taller del Museo de la Caricatura en la Ciudad de México, donde fue guiada por artistas como Artemio Guevara, Mario Guevara y Nacho. Esta formación le permitió perfeccionar sus habilidades y adquirir una apreciación por la caricatura y el cómic.
 
-## Mis redes sociales son:
+El arte de María Fernanda es un viaje introspectivo donde cada pincelada es una exploración de emociones como ansiedad, depresión y furia, plasmadas en mundos imaginarios inspirados en sus sueños y visiones. Su principal motivación es crear narrativas y universos fantásticos que permitan a los espectadores adentrarse en los lugares que ella imagina.
 
-### Perfiles profesionales: Ciencia y Cosmología.
-- [Linkedin](https://www.linkedin.com/in/maria-fernanda-martinez-vazquez/)
-- [Git-Hub](https://github.com/Ferabyss)
+Para ella, el dibujo y la pintura son caminos difíciles pero valiosos, y su consejo a los nuevos artistas es que no se desesperen por encontrar un estilo propio: "El estilo es algo que surge de manera natural, esporádico, personal y sincera, así que no lo fuercen". Su meta es seguir pintando y creando obras que, con el tiempo, merezcan tener su propia exposición, invitando a todos a conocer y disfrutar de su visión del mundo.
+
+## Sus redes sociales son:
 
 ### Perfiles Personales: Cuentas de dibujos.
 - [Instagram](https://instagram.com/Ferabyss)
- 
 - [YouTube](https://youtube.com/@ferabyss)
- 
 - [TikTok](https://www.tiktok.com/@ferabyss)
 - [Twitter](https://x.com/ferabyss)
