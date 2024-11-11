@@ -17,6 +17,7 @@ Nuestro estudio destaca por su dedicación a cada detalle, desde el diseño de p
 
 ## María Fernanda Martínez Vázquez
 
+<p style="text-align:center;"><img src="assets/iamges/logo-ferabyss.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
 
 María Fernanda Martínez Vázquez, también conocida como Ferabyss, es una artista mexicana cuya obra explora las emociones intensas a través de diferentes técnicas, especialmente la pintura al óleo, la acuarela y el acrílico. Desde pequeña, su pasión por el dibujo la llevó a utilizar el arte como una forma de expresar lo que las palabras no podían comunicar. Influenciada por el anime en sus primeros años, ha logrado desarrollar un estilo único que fusiona la fantasía oscura, la mitología celta y maya, así como elementos surrealistas.
 
