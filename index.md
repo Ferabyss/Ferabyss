@@ -6,7 +6,7 @@ has_children: true
 permalink: /
 ---
 
-Ferabyss Estudios: Animación con Alma y Ciencia
+# Ferabyss Estudios: Animación con Alma y Ciencia
 
 En Ferabyss Estudios, transformamos ideas en historias visuales únicas, combinando la magia de la animación 2D con una profunda narrativa. Inspirados en la ciencia, la fantasía y la cultura, llevamos a la pantalla proyectos que capturan la imaginación y transmiten emociones.
 
@@ -16,7 +16,8 @@ Nuestro estudio destaca por su dedicación a cada detalle, desde el diseño de p
 # Acerca de los Artistas
 
 ## María Fernanda Martínez Vázquez
- 
+
+
 María Fernanda Martínez Vázquez, también conocida como Ferabyss, es una artista mexicana cuya obra explora las emociones intensas a través de diferentes técnicas, especialmente la pintura al óleo, la acuarela y el acrílico. Desde pequeña, su pasión por el dibujo la llevó a utilizar el arte como una forma de expresar lo que las palabras no podían comunicar. Influenciada por el anime en sus primeros años, ha logrado desarrollar un estilo único que fusiona la fantasía oscura, la mitología celta y maya, así como elementos surrealistas.
 
 A lo largo de su carrera, ha participado en diversas exposiciones y concursos de pintura, destacando su participación en el Encuentro Nacional de Arte Contemporáneo (ENAC) en 2018, donde obtuvo el tercer lugar, y en 2019, logrando el primer lugar estatal en pintura. Además, ha sido parte del Interpolitécnico de Pintura en 2023 y expondrá próximamente en el Centro Cultural Jaime Torres Bodet para el Interpolitécnico de Pintura 2024.
