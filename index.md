@@ -28,8 +28,13 @@ El arte de María Fernanda es un viaje introspectivo donde cada pincelada es una
 Para ella, el dibujo y la pintura son caminos difíciles pero valiosos, y su consejo a los nuevos artistas es que no se desesperen por encontrar un estilo propio: "El estilo es algo que surge de manera natural, esporádico, personal y sincera, así que no lo fuercen". Su meta es seguir pintando y creando obras que, con el tiempo, merezcan tener su propia exposición, invitando a todos a conocer y disfrutar de su visión del mundo.
 
 ## Sus redes sociales son:
+<p align="center">
+<a href="https://twitter.com/ferabyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferabyss" height="30" width="40" /></a>
+<a href="https://fb.com/ferabyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferabyss" height="30" width="40" /></a>
+<a href="https://instagram.com/ferabyss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferabyss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ferabyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ferabyss" height="30" width="40" /></a>
+</p>
 
-### Perfiles Personales: Cuentas de dibujos.
 - [Instagram](https://instagram.com/Ferabyss)
 - [YouTube](https://youtube.com/@ferabyss)
 - [TikTok](https://www.tiktok.com/@ferabyss)
