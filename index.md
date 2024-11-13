@@ -29,3 +29,10 @@ Para ella, el dibujo y la pintura son caminos difíciles pero valiosos, y su con
 <a href="https://www.youtube.com/@ferabyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ferabyss" height="30" width="40" /></a>
  <a href="https://www.tiktok.com/@ferabyss" target="blank"><img align="center" src="assets/images/tiktok-icon-free-png.webp" alt="ferabyss" height="30" width="40" /></a>
 </p>
+
+#Portafolio digital
+<p style="text-align:center;"><img src="assets/images/1.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/2.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/3.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/4.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/5.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
