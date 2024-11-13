@@ -6,15 +6,7 @@ has_children: true
 permalink: /
 ---
 
-# Ferabyss Estudios: Animación con Alma y Ciencia
-
-En Ferabyss Estudios, transformamos ideas en historias visuales únicas, combinando la magia de la animación 2D con una profunda narrativa. Inspirados en la ciencia, la fantasía y la cultura, llevamos a la pantalla proyectos que capturan la imaginación y transmiten emociones.
-
-Nuestro estudio destaca por su dedicación a cada detalle, desde el diseño de personajes hasta la creación de universos completos, entregando contenido de alta calidad para diversas plataformas. Con un equipo apasionado y una visión fresca, estamos listos para dar vida a tus ideas y compartirlas con el mundo. ¡Únete a nosotros en esta aventura animada! 🎬✨
-
-
-# Acerca de los Artistas
-
+# Ferabyss
 ## María Fernanda Martínez Vázquez
 
 <p style="text-align:center;"><img src="assets/images/ferabyss-logo.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
