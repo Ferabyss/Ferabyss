@@ -31,8 +31,8 @@ Para ella, el dibujo y la pintura son caminos difíciles pero valiosos, y su con
 </p>
 
 #Portafolio digital
-<p style="text-align:center;"><img src="assets/images/1.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
-<p style="text-align:center;"><img src="assets/images/2.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
-<p style="text-align:center;"><img src="assets/images/3.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
-<p style="text-align:center;"><img src="assets/images/4.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
-<p style="text-align:center;"><img src="assets/images/5.jpg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/1.jpeg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/2.jpeg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/3.jpeg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/4.jpeg" alt="bohr" style="height: 50%; width: 50%;"/></p>
+<p style="text-align:center;"><img src="assets/images/5.jpeg" alt="bohr" style="height: 50%; width: 50%;"/></p>
