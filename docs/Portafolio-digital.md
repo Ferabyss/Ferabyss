@@ -1,7 +1,6 @@
 ---
 title: Portafolio Digital
 layout: default
-nav_order: 1
 has_children: true
 permalink: /portafolio-digital
 ---
